@@ -60,7 +60,7 @@ pip install -r requirements.txt
 |------|-------------|
 | `eda-dim-red-clustering.ipynb` | Full Jupyter Notebook with analysis |
 | `requirements.txt` | Python dependencies |
-| `.gitignore` | Ignored files in GitHub |
+
 
 ## 🧪 Running the Notebook
 
@@ -70,6 +70,3 @@ Use Jupyter Notebook or JupyterLab to open:
 jupyter notebook eda-dim-red-clustering.ipynb
 ```
 
-## 📜 License
-
-This project is open-source and free to use under the MIT License.
